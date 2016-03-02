@@ -1,0 +1,3 @@
+2
+1 masashi 32
+2 satoshi 32
